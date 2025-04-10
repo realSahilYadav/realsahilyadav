@@ -20,3 +20,7 @@
 ![realSahilYadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=realSahilYadav&show_icons=true&theme=vue-dark)
 
 - 📫 How to reach me: [Telegram](https://t.me/realSahilYadav)
+
+
+
+![snake gif](https://github.com/realSahilYadav/realsahilyadav/blob/output/github-contribution-grid-snake.gif)
