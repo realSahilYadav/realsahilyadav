@@ -1,9 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/realSahilYadav/count.svg" />
-</p>
-
-
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
